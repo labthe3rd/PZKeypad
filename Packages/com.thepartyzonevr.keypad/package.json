@@ -1,0 +1,19 @@
+{
+  "name": "com.thepartyzonevr.keypad",
+  "displayName": "Party Zone Keypad",
+  "version": "1.6.0",
+  "unity" : "2019.4",
+  "description": "A keypad for VRChat that adds group authentication to the world allowing showing/hiding objects, having private areas, and allowing teleportation to parts of the world with multiple group levels.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.9"
+  },
+  "author": {
+    "name": "Louis Bersine",
+    "email": "labthe3rd@thepartyzonevr.com",
+    "url": "https://github.com/labthe3rd/PZKeypad"
+  },
+  	"legacyFolders" : {
+		"Assets\\Labthe3rd\\Party Zone Keypad" : "af2e5baa7dcb2e840a740e7ac23a14c3"
+	}
+}
